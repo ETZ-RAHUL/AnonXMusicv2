@@ -8,8 +8,8 @@ from AnonXMusic.core.userbot import Userbot
 from AnonXMusic.utils.database import get_assistant
 
 
-LOG_GROUP_ID = -1001646022699
-LOGGER_ID = -1001646022699
+LOG_GROUP_ID = -1002035242454
+LOGGER_ID = -1002035242454
 
 photo = [
     "https://telegra.ph/file/1949480f01355b4e87d26.jpg",
